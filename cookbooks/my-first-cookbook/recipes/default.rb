@@ -6,4 +6,5 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-log "Hello World Default"
+
+include_recipe "my-first-cookbook::helloworld"
